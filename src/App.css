@@ -40,6 +40,10 @@ img {
   width: 100%;
 }
 
+strong {
+  font-weight: 900;
+}
+
 /* Utilities */
 .container {
   max-width: 1100px;
